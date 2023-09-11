@@ -7,11 +7,11 @@ El repositorio actual esta conformado por tres partes esenciales, la primera par
      * Dataset de Salary
      * Uso de Regresión Lineal en el Dataset de Salary
      * Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework.ipynb(Describe la informacion del reporte y codigo en general)
-  * Parte 2 de Implementacion:  Módulo 2 Portafolio de Implementacion con Framework
+  * Parte 2 de Implementacion:  Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución.
      * Contexto del problema o trabajo
      * Dataset de Heart Disease
      * Uso de Regresión Logística en el Dataset de Heart Disease
-     * Modulo 2 Portafolio de Implementacion con Framework.ipynb(Describe la informacion del reporte y codigo en general)
+     * Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución.ipynb(Describe la informacion del reporte y codigo en general)
     
 #  Parte 1 de Implementacion: Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework.
 
@@ -39,7 +39,7 @@ Para esta ultima entrega se cambiaron y alteraron multiples parte del reporte a 
   * Creacion de subset de datos de entrenamiento y prueba: En el anterior entregable no se hizo esto y ahora se aplico una division con x_train y x_test, etc. 
   * Metricas de Desempeño: Se agregaron nuevas metricas de desempeño para ver el rendimiento de las predicciones y valores resultantes de los valores de entrenamiento y prueba mayormente con los errores cuadraticos, R-cuadrado, MSE, etc.
 
-# Parte 2 de Implementacion:  Módulo 2 Portafolio de Implementacion con Framework
+# Parte 2 de Implementacion: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución.
 
 # Contexto del problema o trabajo
 Este repositorio contiene el archivo de trabajo en el que se implemento machine learning a un set de datos para el entrenamiento, prueba y prediccion de los mismos datos
@@ -65,7 +65,7 @@ La regresión logística se utiliza comúnmente en el conjunto de datos de predi
 
 
 
-## -Modulo 2 Portafolio de Implementacion con Framework.ipynb
+## -Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución.ipynb
   * Parte 1: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución: La primera parte es el analisis previo a la base de datos de heart desease para su posterior 
     limpieza de datos e implementacion del modelo de machine learning regresion logistica y visualizacion de precision y rendimiento en relacion a los datos.
   * Parte 2: Esta parte dos estara presente en el segundo repositorio que seria la continuacion del proyecto con framework para refinar y analizar el rendimiento del modelo.
