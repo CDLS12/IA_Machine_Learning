@@ -1,4 +1,6 @@
-# Estructura del repositorio
+# Modulo 2 Portafolio de Implementacion
+
+## Estructura del repositorio
 El repositorio actual esta conformado por tres partes esenciales, la primera parte es el README presente el cual sirve como presentacion del repositorio e introduccion a los dos proyectos o trabajos(con Framewrok y sin Framework) con datos generales del entregable, contexto del reto o problema a resolver y los modelos que se utilizaran para la solucion del mismo. La segunda parte es el archivo/reporte  Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework.ipynb el cual es el reporte explicado con codigo implementado y solucion de la problematica presente y la tercera parte es el archivo  Módulo 2 Portafolio de Implementacion con Framework el cual es el reporte explicado con codigo implementado , a continuacion en forma de lista se presentaran las tres partes de este repositorio para un mejor entendimiento y orden:
 
 ## -README: Introduccion y entendimiento del proyecto con contexto general de la problematica conformada por
